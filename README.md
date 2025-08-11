@@ -34,3 +34,6 @@ The mutation altered helix tilt and pore geometry in ways that could strengthen 
 Secondary structure analyses indicated localized changes near the mutation site without complete unfolding of helices.
 
 These differences support experimental evidence that R14del stabilizes pentamers, possibly limiting dynamic regulatory switching and contributing to chronic SERCA inhibition
+
+[![Research Poster Thumbnail](poster_thumbnail.png)](A_final_PLN_poster.pdf)
+
