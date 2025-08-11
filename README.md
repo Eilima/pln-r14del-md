@@ -17,13 +17,13 @@ Simulation Parameters: 1000 ns per replicate, 310 K.
 
 Analyses Conducted:
 
-    RMSD – global stability
+RMSD – global stability
 
-    Helix tilt – orientation of transmembrane helices
+Helix tilt – orientation of transmembrane helices
 
-    Pore radius profiles – structural geometry of the pentamer pore
+Pore radius profiles – structural geometry of the pentamer pore
 
-    Secondary structure – backbone conformational changes over time
+Secondary structure – backbone conformational changes over time
 
 ## Key Findings (general audience)
 
